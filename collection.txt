@@ -1,0 +1,5 @@
+Star Wars::1977::G::Lucas::Universal::s
+Superman::1970::PG::Director::Universal::SUPER
+Star Trek::2001::R::Lenard Nimoy::Columbia::GOOD
+Antman::2018::PG::Director::Marvel::SMALL
+Spiderman::2003::G::sam::Marvel::Sticky
